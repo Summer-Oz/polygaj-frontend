@@ -97,12 +97,12 @@ const config: MenuEntry[] = [
   },
   {
     label: "Roadmap",
-    icon: "RoadmapIcon",
+    icon: "MoreIcon",
     href: 'https://docs.polygaj.finance/roadmap',
   },
   {
     label: "Collab",
-    icon: "HandshakeIcon",
+    icon: "MoreIcon",
     href: 'https://t.me/polygajhead',
   }
 ]
